@@ -147,29 +147,9 @@ button{
                             
                             }
                         
-                             
-                        
-
+            
                     
-                    
-                            
-
-    #INICIO{
-
-             }
-    #INICIO .container{
-        text-align: center;
-padding: 5px 142px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-    flex-direction: column;
-     height: 100vh;;
-    color: black;
-    background-color: white;}
-    
-    
+            
     #YOUTUBE{
 
     }
@@ -205,22 +185,7 @@ display: flex;
  border-color: Black;}
 
 
-    #CONTACTAME{
-
-    }
-
-    #CONTACTAME .container{
-text-align: center;
-padding: 5px 142px;
-display: flex;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-    flex-direction: column;
-     height: 100vh;
-    color: black;
-    background-color: white;}
-
+   }
 
 
 
